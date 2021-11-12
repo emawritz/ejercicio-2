@@ -1,0 +1,19 @@
+#people{
+    background: #9830e6 !important;
+    padding: 0.3rem;
+    border-radius: 100%;
+}
+
+.logo{
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 10%;
+    background: transparent;
+}
+
+.button{
+    background: transparent !important;
+    margin: 2.5rem 1rem 0rem 0.5rem;
+    font-size: 23px;
+}
+

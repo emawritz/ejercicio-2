@@ -1,0 +1,40 @@
+
+.star{
+    color: #ffbc35;
+    margin: 0px 10px 0px 0px;
+    padding: none;
+    font-size: 16px;
+}
+
+.card-top ion-card-subtitle{
+    background: #ff3a7a;
+    z-index: 99;
+    width: fit-content;
+    padding: 0.5rem 1.2rem 0.2rem 1.2rem;
+    text-transform: none;
+    margin: auto;
+    border-radius: 23px 23px 0 0;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+
+.card-top ion-card-title{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 23px;
+    line-height: 22px;
+    position: relative;
+    z-index: 99;
+}
+
+.card-top ion-card-content{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 13px !important;
+    position: relative;
+    z-index: 99;
+}
